@@ -1,3 +1,5 @@
+
+
 ### 컬렌션 프레임웍과 함수형 인터페이스
 
 컬렉션 프레임웍에 추가된 default functional interface 정리
