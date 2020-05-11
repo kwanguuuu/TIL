@@ -11,6 +11,8 @@
    - 파이프라인/지연/병렬 처리 등이 인터페이스로 제공되어 보다 편리하게 함수형 인터페이스를 사용 가능
 3. Optional객체
    - NPE를 발생 가능성에 대한 도움을 줌
+   - Optional.empty(), Optional.of(), Optional.ofNullable() 와 같은 방법으로 생성 후 사용
+   - 
 4. 날짜 표현식
    - 새로운 날짜 표준으로 LocalDate, LocalDateTime 제공
 

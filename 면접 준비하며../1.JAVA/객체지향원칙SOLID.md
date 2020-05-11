@@ -18,7 +18,8 @@ SRP, OCP, LSP, DIP, ISP
 
 
 
-3. 리스코프 치환 원칙(Liskov Substitution Principle)
+3. 
+4. 리스코프 치환 원칙(Liskov Substitution Principle)
 
 자식클래스는 부모의 클래스에서가능한 행위는 수행할 수 있어야함.
 
